@@ -46,6 +46,8 @@ npm install commander
 
 ## Available Scripts & Commands
 
+Alternatively, you can also run "node 1.js -h" or "node 2.js -h" to list all the available commands that can be executed for that js file.
+
 ### `node 1.js count <filename>`
 
 This command counts the number of lines in a specified file. Make sure to only use "1.js" in the command as it contains the code for the desired functionality.

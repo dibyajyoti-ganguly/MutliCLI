@@ -31,12 +31,12 @@ The built-in Node.js module used to interact with the file system (read/write fi
 
 * How/where to clone the repository:
 ```
-git clone ""https://github.com/your-username/FileTools-CLI.git""
+git clone "https://github.com/dibyajyoti-ganguly/MutliCLI.git"
 ```
 
 * Navigate into the folder:
 ```
-cd FileTools-CLI
+cd MutliCLI
 ```
 
 * Install dependencies:
